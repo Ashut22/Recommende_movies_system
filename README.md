@@ -20,9 +20,6 @@ An interactive web app that recommends movies similar to a selected movie using 
 - Streamlit for the web interface  
 - TMDb API for movie posters
 
-## Screenshot
-*(Optional: Add a screenshot of the app here)*
-
 ## Usage
 Run the app locally with:
 ```bash
